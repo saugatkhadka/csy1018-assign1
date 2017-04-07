@@ -1,6 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Macondo|Raleway|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Macondo|Pacifico|Raleway|Roboto');
+
+/*fonts*/
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Macondo', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Pacifico', cursive;
+*/
+
 
 /*All pages style*/
+* {
+    box-sizing: border-box;
+}
+
 body {
     /*background-image: url("../images/naturalblack.png"); */
     background: #fff;
@@ -32,8 +45,13 @@ header a {
 }
 
 #portfolio-heading {
-    font-family: 'Roboto', cursive;
+    font-family: 'Pacifico', cursive;
 }
+
+#portfolio-heading:hover {
+    color: #3a3ebe;
+}
+
 
 nav {
     width: 100%;
@@ -55,6 +73,8 @@ nav ul {
 nav li {
     padding: 1%;
     width: 25%;
+    color: #bec3cf;
+    background-color: #f6f6f6;
  }
 
 nav li:hover {
@@ -83,8 +103,21 @@ nav a {
     margin: 0;
     padding: 1%;
     text-align: center;
-    border-style: solid;
-    border-width: 2px 0 0 0;
+    /*border-style: solid;
+    border-width: 2px 0 0 0;*/
+}
+
+
+footer {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/naturalblack.png);
+    color: white;
+}
+
+footer p {
+    text-align: center;
 }
 
 
@@ -137,9 +170,14 @@ nav a {
     /*display: flex;*/
     flex-flow: column wrap;
     justify-content: space-around;
-    width: 50%;
+    width: 60%;
     padding: 2%
 }
+
+/*.container_card:hover {
+    width: 80%;
+    transition-duration: 1s;
+}*/
 
 
 .card {
@@ -166,31 +204,70 @@ nav a {
     text-align: center;
     width: 100%
 }
-
+/*
 #card-photo {
     width:100%;
     display: inline-block;
     flex:1;
+}*/
+
+@media only screen and (max-width: 1024px){
+
+    .container_card {
+        width: 100%;
+        padding: 2%
+    } 
+
 }
 
-footer {
-    width: 100%;
+
+/*About me page css*/
+
+.cvcontent {
     margin: 0;
-    padding: 0;
-    background-image: url(../images/naturalblack.png);
-    color: white;
-}
-
-footer p {
+    padding: 1%;
     text-align: center;
+    /*border-style: solid;
+    border-width: 2px 0 0 0;*/
+}
+
+.cvcontent p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.cvcontent h1 {
+    font-size: 40px;
+}
+
+.cvcontent h2 {
+    font-size: 27px;
 }
 
 
+.textface {
+    font-size: 22px;
+    color: #5d5d5d;
+    display: inline-block;
+    animation-name: changeface;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
 
+@keyframes changeface {
+    0% {color:#5d5d5d; }
+    15%{color:#7f8c8d; }
+    35%{color:#ecf0f1; }
+    55%{color:#8e44ad; }
+    75%{color:#2ecc71; }
+    85%{color:#f1c40f; }
+    100%{color:#34495e; }
+}
 
-
-
-
+.textface:hover {
+    transform: scale(1.1, 1.1);
+}
 
 /*.navigation {
     display: flex;
