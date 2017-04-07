@@ -3,6 +3,7 @@
 <head>
 	<title>Portfolio</title>
 	<link rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/form.css">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -27,19 +28,46 @@
 	</nav>
 
 	<!-- Page Content -->
-	<main>
-		<div class="content">
-			<!-- My Picture goes here -->
-			<img src="images/avatar.gif" alt="Profile photo">
-			<h2>Saugat Khadka</h2>
-			<p>Student at NAMI 
-			University of Northampton</p>
-			<h2>This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!This is the home!!</h2>
-		</div>
+	<main class="contact-main">
+		<form action="contact.html" method="POST">
+				<h2>Leave a message</h2>
+				<div class="ctcard">
+					<p>First Name</p>
+					<input type="text" name="fname"/><br>
+				</div>
+				<div class="ctcard">
+					<p>Last Name </p>
+					<input type="text" name="lname" /><br>
+				</div>
+				<div class="ctcard">
+					<p>Email Address</p>
+					<input type="email" name="email" /><br>
+				</div>
+				<div class="ctcard">
+					<p>Message</p>
+					<textarea name="message" id="form-message" cols="20" rows="10" placeholder="Your message here"></textarea>
+				</div>
+				<div class="ctcard">
+					<input type="submit" value="Submit"/>
+				</div>
+		</form>
 	</main>
 
 	<!-- Footer Content -->
-
+	<footer>
+		<div>
+			<h3>Catch me at</h3><br>
+			<a href="tel:+9779841236987"><img src="images/mobile-phone.png" alt="Mobile phone" ></a>
+			<a href="mailto:ksaugat@gmail.com"><img src="images/mailing.png" alt="Email"></a>
+			<a href="https://www.facebook.com/saugatk" target="_blank"><img src="images/facebook.png" alt="Facebook"></a>
+			<a href="https://twitter.com/saugatkhadka" target="_blank"><img src="images/twitter.png" alt="Twitter"></a>
+			<a href="https://github.com/saugatkhadka" target="_blank"><img src="images/github-logo.png" alt="Github"></a>
+			<a href="#" target="_blank"><img src="images/linkedin.png" alt="LinkedIn"></a>
+			<p>
+				&copy; Made by Saugat with &#9749;, &#9752; and ❤.
+			</p>
+		</div>
+	</footer>
 
 </body>
 </html>

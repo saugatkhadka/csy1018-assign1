@@ -116,8 +116,14 @@ footer {
     color: white;
 }
 
+footer h3 {
+    padding-top: 1%;
+}
+
 footer p {
     text-align: center;
+    margin: 0;
+    padding: 1%;
 }
 
 
@@ -267,6 +273,97 @@ footer p {
 
 .textface:hover {
     transform: scale(1.1, 1.1);
+}
+
+
+/*Contact Page CSS*/
+
+.contact-main {
+    width: 97%;
+    background-image: url("../images/playstation.png"); 
+    color: #5d5d5d;
+    border: none;
+    padding:0;
+    margin: auto;
+}
+
+@media only screen and (max-width: 720px){
+
+    .contact-main {
+        width: 98%;
+        padding: 2%;
+    } 
+}
+
+
+.ctcard {
+    color: #8d8d8d;
+    padding: 1%;
+}
+
+form {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+form h2 {
+    padding-top: 1%
+}
+
+form p{
+    font-size: 18px;
+    margin: 0;
+}
+
+input {
+    width: 50%;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    padding: 12px 20px 12px 40px;
+    transition: width 0.4s;
+    position: static;
+}
+
+input:focus {
+    border: none;
+    box-shadow: 0 4px 16px 0 rgba(0,0,0,0.2);
+    transform: scale(1.05, 1.05);
+    transition: 0.4s;
+}
+
+textarea {
+    width: 50%;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    padding: 12px 20px 12px 40px;
+    transition: width 0.4s;
+}
+
+
+@media only screen and (max-width: 720px){
+
+    input {
+        width: 100%;
+    }
+
+    form p {
+        font-size: 22px;
+    }
+
+    textarea {
+        width: 100%;
+    }
+
 }
 
 /*.navigation {
