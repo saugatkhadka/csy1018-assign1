@@ -6,11 +6,8 @@ body {
     background: #fff;
     margin: 0px;
     padding-top: 0.5%;
-
     color: #5d5d5d;
     font-family: Roboto, sans-serif;
-    display: flex;
-    flex-flow: row wrap;
     text-align: center;
 }
 
@@ -187,8 +184,6 @@ footer {
 footer p {
     text-align: center;
 }
-
-
 
 
 
