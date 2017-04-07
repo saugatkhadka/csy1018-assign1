@@ -88,7 +88,11 @@ nav a {
     text-decoration: none;
     color: inherit;
  }
- 
+
+#onpage {
+    background-image: url(../images/naturalblack.png);
+    color: #fff;
+} 
 
 .main {
     width: 100%;
@@ -97,6 +101,11 @@ nav a {
     border: none;
     padding:0;
     margin: 0;
+}
+
+main a {
+    text-decoration: none;
+    color: #3a3ebe;
 }
 
 .content {
@@ -124,6 +133,10 @@ footer p {
     text-align: center;
     margin: 0;
     padding: 1%;
+}
+
+footer a {
+    padding: 3px;
 }
 
 
@@ -355,7 +368,10 @@ textarea {
     input {
         width: 100%;
     }
-
+    
+    form {
+        width: 100%;
+    }
     form p {
         font-size: 22px;
     }
@@ -366,20 +382,25 @@ textarea {
 
 }
 
-/*.navigation {
-    display: flex;
-}*/
+.doge {
+    font-family: 'Raleway', sans-serif;
+    color: #aaa;
+}
 
-/*@media  (min-width: 768px) {
-    nav {
-        flex:1 auto;
-        order:1;
-    }
-    .content {
-        flex:5 23px;
-        order:2;
-    }
-    footer {
-        order:3;
-    }
-}*/
+#backtotop {
+    text-decoration: none;
+    color: #3a3ebe;
+    font-size: 22px;
+    font-weight: bold;
+    border: 2px solid #3a3ebe;
+    border-radius: 2px;
+    padding: 2.1%;
+    display: inline-block;
+}
+
+
+#backtotop:hover {
+    color: #f1c40f;
+    border-color: #f1c40f;
+}
+
