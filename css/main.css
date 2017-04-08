@@ -98,6 +98,7 @@ nav a {
 #onpage {
     background-image: url(../images/naturalblack.png);
     color: #fff;
+    font-family: Raleway;
 } 
 
 .main {
@@ -280,6 +281,7 @@ footer img:hover {
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     font-size: 21px;
+    /*text-align: justify;*/
 }
 
 .cvcontent h1 {
@@ -381,6 +383,13 @@ input:focus {
     box-shadow: 0 4px 16px 0 rgba(0,0,0,0.2);
     transform: scale(1.05, 1.05);
     transition: 0.4s;
+}
+
+input[type="submit"] {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    color: #2c3e50;
 }
 
 textarea {
