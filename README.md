@@ -1,5 +1,5 @@
-_csy1018-assign1_
-_Saugat Khadka_
+_csy1018-assign1_ | 
+_Saugat Khadka_ | 
 _UN id: 17429437_
 
 Portfolio
@@ -7,7 +7,7 @@ Portfolio
 
 Throughout the process of coding up this portfolio page, my design did not change very much. Card UI and box shadow was an unexpected addition to the whole portfolio. The first design was a pretty plain but good structure to help facilitate the design process later on and get a good picture of what the webpage should look like. I had a good idea of how I wanted my page to look. Really slimmed down and very basic with pleasing aesthetics. So I decided to choose clean white and greyish theme for the whole page and dark image for the navigation pane. 
 
-Though, it is recommended that websites be done mobile first, I made the desktop version first and scaled everything down to fit all screen sizes down to _**iPhone 4**_.  During the period of the assignment, I went through various portfolios and many designs on the internet. [codepen](https://codepen.io/) and [fresh website design](https://www.freshdesignweb.com/) are two places I mostly visited to get ideas for my designs.  Most of the design made there, were made with the use of Javascript frameworks and bootstrap. Creating similar designs in pure CSS was a fun and informative experience. I had to go through some tutorials to get a good grasp of box model and positioning. In the end, I made very little sketches and wireframes than I expected. The ones I made are listed below.
+Though, it is recommended that websites be done mobile first, I made the desktop version first and scaled everything down to fit all screen sizes down to _**iPhone 4**_.  During the period of the assignment, I went through various portfolios and many designs on the internet. [Codepen](https://codepen.io/) and [Fresh Website Design](https://www.freshdesignweb.com/) are two places I mostly visited to get ideas for my designs.  Most of the design made there, were made with the use of Javascript frameworks and bootstrap. Creating similar designs in pure CSS was a fun and informative experience. I had to go through some tutorials to get a good grasp of box model and positioning. In the end, I made very little sketches and wireframes than I expected. The ones I made are listed below.
 
 
 Sketches
@@ -18,16 +18,25 @@ After going through some portfolio design and vcards on the web, I decided to ma
 
 ![Sketch for web project][sketch]
 
-Pros: Clean looking design and simple codes required to make
-Cons: Not enough punch and visual appeal, Has very little content and animation
+
+> Pros: Clean looking design and simple codes required to make
+> Cons: Not enough punch and visual appeal, Has very little content and animation
 
 
 
 Wireframes
 ------------
 #Home Page
-![Home Page][Home page wireframe]
+![Home Page][Home wireframe]
 
+#Bio/ About Me
+![About Me][Bio wireframe]
+
+#CV
+![CV][CV Wireframe]
+
+#Contact
+![Contact][Contact Wireframe]
 Mobile view
 -----------------
 Since I made the page responsive for mobile last, it was quite a hurdle to get everything to work properly. I used the viewport to get the site to scale and made some adjustments to the containers. I only made the wireframe for phones after getting the site to be responsive on smaller devices and used media queries to display the content properly. Very little changes were made to the mobile view after making the wireframe. So the portfolio is consistent with the wireframe all the way to the end.
@@ -82,5 +91,8 @@ I used some sites and portfolios for design reference and for background images.
 
 
 
-[sketch]:"images/readme/sketches/sketch-first.jpg"
-[Home page wireframe]
+[sketch]: images/readme/sketches/sketch-first.jpg
+[Home wireframe]: images/readme/wireframes/home.png
+[Bio wireframe]: images/readme/wireframes/bio.png
+[CV Wireframe]: images/readme/wireframes/cv.png
+[Contact Wireframe]: images/readme/wireframes/contact.png
