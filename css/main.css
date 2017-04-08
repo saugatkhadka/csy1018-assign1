@@ -123,6 +123,11 @@ footer {
     padding: 0;
     background-image: url(../images/naturalblack.png);
     color: white;
+    position:static;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
 }
 
 footer h3 {
@@ -156,11 +161,22 @@ footer img:hover {
 
 #myphoto {
     /*need to put good responsive size*/
-    width: 70%;
-    float: left;
+    width: 80%;
+    height: 80%;
     position: relative;
-    margin: 0;
+    margin: auto;
     padding: 0;
+
+}
+
+@media only screen and (max-width: 640px){
+
+    #myphoto {
+        /*need to put good responsive size*/
+        width: 100%;
+        height: 100%;
+
+    } 
 
 }
 
@@ -278,6 +294,12 @@ footer img:hover {
     animation-name: changeface;
     animation-duration: 4s;
     animation-iteration-count: infinite;
+}
+
+.textfacehome {
+    font-size: 42px;
+    color: #5d5d5d;
+    display: block;
 }
 
 @keyframes changeface {
