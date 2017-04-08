@@ -61,14 +61,14 @@ I used some sites and portfolios for design reference and for background images.
 > - Flexbox froggy
 > - Thinkful HTML & CSS course
 > - Portfolios
-> -_ http://ryanscherf.net/ _
-> -_ http://castirondesign.com/ _
-> -_ http://www.hihayk.com/ _
-> -_ https://bert.house/ _
-> -_ https://www.freshdesignweb.com/ _
-> -_ http://learn.shayhowe.com/html-css _
-> - Design and patterns from https://www.toptal.com _
-> - https://fonts.google.com _
-> - Text faces from https://textfac.es _
-> - Icons from http://www.flaticon.com _
-> - Favicon from http://www.favicomatic.com/ _
+> - > http://ryanscherf.net/ 
+> - > http://castirondesign.com/ 
+> - > http://www.hihayk.com/ 
+> - > https://bert.house/ 
+> - > https://www.freshdesignweb.com/ 
+> - > http://learn.shayhowe.com/html-css 
+> - Design and patterns from https://www.toptal.com 
+> - https://fonts.google.com 
+> - Text faces from https://textfac.es 
+> - Icons from http://www.flaticon.com 
+> - Favicon from http://www.favicomatic.com/ 
