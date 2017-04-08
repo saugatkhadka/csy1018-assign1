@@ -26,7 +26,7 @@ After going through some portfolio design and vcards on the web, I decided to ma
 
 Wireframes
 ------------
-```
+
 # Home Page
 *****
 ![Home Page][Home wireframe]
@@ -42,7 +42,7 @@ Wireframes
 # Contact
 ******
 ![Contact][Contact Wireframe]
-```
+
 
 Mobile view
 -----------------
