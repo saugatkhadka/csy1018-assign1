@@ -35,7 +35,7 @@ header {
 header h1 {
     margin: 0;
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 40px;
 }
 
 header a {
@@ -139,6 +139,14 @@ footer a {
     padding: 3px;
 }
 
+footer img:hover {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+#gitpic:hover {
+    border-radius: 20px;
+}
 
 /*CV Page CSS*/
 
@@ -164,7 +172,6 @@ footer a {
 }
 
 .cvmain {
-    /*background-image: url("../images/playstation.png"); */
     color: #5d5d5d;
     border: none;
     padding:0;
@@ -183,14 +190,14 @@ footer a {
 
 .container_card {
     /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.65);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.65); 
     transition: 0.3s;
     margin: auto;
     /*display: flex;*/
     flex-flow: column wrap;
     justify-content: space-around;
     width: 60%;
-    padding: 2%
+    padding: 2%;
 }
 
 /*.container_card:hover {
@@ -210,7 +217,6 @@ footer a {
 /* On mouse-over, add a deeper shadow */
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
-    color: #5d5d5d;
     transform: scale(1.05, 1.05);
     background-image: url(../images/playstation.png);
     color: #5d5d5d;
