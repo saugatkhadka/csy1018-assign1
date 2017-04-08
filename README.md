@@ -79,10 +79,43 @@ After the first try at the website, I realized that I was missing some photos (f
 ## Final look
 -----------
 
+### Home Page
+![Home Page][Home final design]
+
+### Bio/ About Me
+![About Me][Bio final design]
+
+### CV
+![CV][CV final design]
+
+### Contact
+![Contact][Contact final design]
 
 ## Final Mobile View
 -------------------
 
+### Home Page
+![Home Page][Home final mobile design]
+
+### Bio/ About Me
+![About Me][Bio final mobile design]
+
+### CV
+![CV][CV final mobile design]
+
+### Contact
+![Contact][Contact final mobile design]
+
+## Performance
+----------------
+Although optimization for the current codes is limited due to assignment restriction, images have been optimized and page load speed tested have come up with an A. The performance insight from pingdom.com can be seen below.
+
+![Speed Test Result][Performance report]
+
+## Access to Project
+---------------------
+
+The live project can be access through Github with [link](saugatkhadka.github.io/csy1018-assign1/) .
 
 ## Good practice
 --------------
@@ -114,8 +147,6 @@ I used some sites and portfolios for design reference and for background images.
 
 
 
-
-
 [sketch]: images/readme/sketches/sketch-first.jpg
 
 [Home wireframe]: images/readme/wireframes/home.png
@@ -133,3 +164,14 @@ I used some sites and portfolios for design reference and for background images.
 [CV first design]:images/readme/first-design/cv.png
 [Contact first design]:images/readme/first-design/contact.png
 
+[Home final design]:images/readme/final-design/home-final.png
+[Bio final design]:images/readme/final-design/bio-final.png
+[CV final design]:images/readme/final-design/cv-final.png
+[Contact final design]:images/readme/final-design/contact-final.png
+
+[Home final mobile design]:images/readme/final-design/home-mobile-final.png
+[Bio final mobile design]:images/readme/final-design/bio-mobile-final.png
+[CV final mobile design]:images/readme/final-design/cv-mobile-final.png
+[Contact final mobile design]:images/readme/final-design/contact-mobile-final.png
+
+[Performance report]:images/readme/performance/performance-insight.png
