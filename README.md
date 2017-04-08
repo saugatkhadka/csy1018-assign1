@@ -2,11 +2,15 @@ _csy1018-assign1_
 _Saugat Khadka_     
 _UN id: 17429437_
 
+![My Avatar](images/avatar.gif)
 # Portfolio
 Throughout the process of coding up this portfolio page, my design did not change very much. Card UI and box shadow was an unexpected addition to the whole portfolio. The first design was a pretty plain but good structure to help facilitate the design process later on and get a good picture of what the webpage should look like. I had a good idea of how I wanted my page to look. Really slimmed down and very basic with pleasing aesthetics. So I decided to choose clean white and greyish theme for the whole page and dark image for the navigation pane. 
 
 Though, it is recommended that websites be done mobile first, I made the desktop version first and scaled everything down to fit all screen sizes down to _**iPhone 4**_.  During the period of the assignment, I went through various portfolios and many designs on the internet. [Codepen](https://codepen.io/) and [Fresh Website Design](https://www.freshdesignweb.com/) are two places I mostly visited to get ideas for my designs.  Most of the design made there, were made with the use of Javascript frameworks and bootstrap. Creating similar designs in pure CSS was a fun and informative experience. I had to go through some tutorials to get a good grasp of box model and positioning. In the end, I made very little sketches and wireframes than I expected. The ones I made are listed below.
 
+## Access to Project
+
+The live project can be access through Github with [link](saugatkhadka.github.io/csy1018-assign1/).
 
 ## Sketches
 I made a very small sketch of the basic page to be followed throughout the development process. Font sizes for different and basic components for all pages are also written down. Mentioned font size are the latest trend in the blogging community and also medium uses them and I think they have really good readability because of it. And colors theme for the overall page is also written down. I mainly went with flat colors because they are easy on the eyes and catchy at the same time.
@@ -100,9 +104,6 @@ Although optimization for the current codes is limited due to assignment restric
 
 ![Speed Test Result][Performance report]
 
-## Access to Project
-
-The live project can be access through Github with [link](saugatkhadka.github.io/csy1018-assign1/) .
 
 ## Good practice
 To my best extent, I've tried to keep to a good and respected design language as much as possible and reduce code plagarism as well as content plagarism like icon and background files. Although all contents and the code used from external sources have been credited in this file.
@@ -129,7 +130,6 @@ I used some sites and portfolios for design reference and for background images.
 > * Icons from http://www.flaticon.com 
 > * Favicon from http://www.favicomatic.com/ 
 
-[TOC]
 
 
 [sketch]: images/readme/sketches/sketch-first.jpg
