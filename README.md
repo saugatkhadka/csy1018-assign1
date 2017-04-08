@@ -16,7 +16,7 @@ I made a very small sketch of the basic page to be followed throughout the devel
 
 After going through some portfolio design and vcards on the web, I decided to make a black and white themed page. I made the following wireframes based on the conclusion. The first wireframe I made was the final and decisive design I settled on. 
 
-[Sketch for web project][sketch]
+![Sketch for web project][sketch]
 
 Pros: Clean looking design and simple codes required to make
 Cons: Not enough punch and visual appeal, Has very little content and animation
@@ -25,7 +25,8 @@ Cons: Not enough punch and visual appeal, Has very little content and animation
 
 Wireframes
 ------------
-
+#Home Page
+![Home Page][Home page wireframe]
 
 Mobile view
 -----------------
@@ -60,22 +61,26 @@ References
 --------------
 I used some sites and portfolios for design reference and for background images. All of the resources I used during the period of coding this project are listed below.
 
-> - W3school (card ui, box shadow,  flex tutorial)
-> - Flexbox froggy
-> - Thinkful HTML & CSS course
-> - Portfolios
-> - > http://ryanscherf.net/ 
-> - > http://castirondesign.com/ 
-> - > http://www.hihayk.com/ 
-> - > https://bert.house/ 
-> - > https://www.freshdesignweb.com/ 
-> - > http://learn.shayhowe.com/html-css 
-> - Design and patterns from https://www.toptal.com 
-> - https://fonts.google.com 
-> - Text faces from https://textfac.es 
-> - Icons from http://www.flaticon.com 
-> - Favicon from http://www.favicomatic.com/ 
+> * W3school (card ui, box shadow,  flex tutorial)
+> * Flexbox froggy
+> * Thinkful HTML & CSS course
+> * Portfolios
+> 	+ http://ryanscherf.net/ 
+> 	+ http://castirondesign.com/ 
+> 	+ http://www.hihayk.com/ 
+> 	+ https://bert.house/ 
+> 	+ https://www.freshdesignweb.com/ 
+> 	+ http://learn.shayhowe.com/html-css 
+> * Design and patterns from https://www.toptal.com 
+> * https://fonts.google.com 
+> * Text faces from https://textfac.es 
+> * Icons from http://www.flaticon.com 
+> * Favicon from http://www.favicomatic.com/ 
+
+
+
 
 
 
 [sketch]:"images/readme/sketches/sketch-first.jpg"
+[Home page wireframe]
