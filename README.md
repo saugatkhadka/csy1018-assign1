@@ -15,6 +15,9 @@ Sketches
 I made a very small sketch of the basic page to be followed throughout the development process. Font sizes for different and basic components for all pages are also written down. Mentioned font size are the latest trend in the blogging community and also medium uses them and I think they have really good readability because of it. And colors theme for the overall page is also written down. I mainly went with flat colors because they are easy on the eyes and catchy at the same time.
 
 After going through some portfolio design and vcards on the web, I decided to make a black and white themed page. I made the following wireframes based on the conclusion. The first wireframe I made was the final and decisive design I settled on. 
+
+[Sketch for web project][sketch]
+
 Pros: Clean looking design and simple codes required to make
 Cons: Not enough punch and visual appeal, Has very little content and animation
 
@@ -72,3 +75,7 @@ I used some sites and portfolios for design reference and for background images.
 > - Text faces from https://textfac.es 
 > - Icons from http://www.flaticon.com 
 > - Favicon from http://www.favicomatic.com/ 
+
+
+
+[sketch]:"images/readme/sketches/sketch-first.jpg"
