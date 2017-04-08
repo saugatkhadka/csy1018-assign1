@@ -1,6 +1,8 @@
-# csy1018-assign1
+csy1018-assign1
+/*Saugat Khadka*/
+/*UN id: 17429437*/
 
-#Portfolio
+Portfolio
 ===========
 
 Throughout the process of coding up this portfolio page, my design did not change very much. Card UI and box shadow was an unexpected addition to the whole portfolio. The first design was a pretty plain and just structure to help facilitate the design process and get a good picture of what the web page should look like. I had a good idea of how I wanted my page to look. Really slimmed down and very basic with pleasing aesthetics. So I decided to choose clean white and greyish theme for the whole page and dark image for the navigation pane. 
@@ -19,6 +21,7 @@ Wireframes
 ------------
 
 ###1.	Home Page
+ 
  
  
 ###2.	Bio/ About me Page
@@ -52,39 +55,28 @@ Pictures of the first design
 I started with a basic structure of the page and build it with black and white accent.  I really wanted to use the card UI, so I used it to display the CV page contents. 
 
 
-###1.	Home Page
+1.	Home Page
  
+2.	Bio
 
-
-
-###2.	Bio
-
+3.	CV
  
-
-
-###3.	CV
- 
- 
-###4.	Contact
-
- 
+4.	Contact
 
 After the first try at the website, I realized that I was missing some photos (fixed soon after) and footer was not fixed to the bottom of the page. From looking it up, it was due to less content or bad responsive configuration. I tried to solve but there were most suggestion for using javascript, so I chose to increase the amount of content in every page so even high definition screen would not reach the end without a scroll.  After that solved my problem, there were cases were some online responsive test sent back unresponsive navbar. As far as I’ve tried it worked with all my devices so, I decided to leave it just as it is. 
  
 Final look
 -----------
-###1.	Home page
+1.	Home page
  
-
-###2.	Bio/ About me page
+2.	Bio/ About me page
  
-###3.	CV page
+3.	CV page
  
- 
-###4.	Contact page
+4.	Contact page
  
- 
-##Final Mobile View
+Final Mobile View
+-------------------
 
 
  
@@ -96,18 +88,18 @@ References
 --------------
 I used some sites and portfolios for design reference and for background images. All of the resources I used during the period of coding this project are listed below.
 W3school (card ui, box shadow,  flex tutorial)
-####Flexbox froggy
-####Thinkful HTML & CSS course
-####Portfolios
-#####http://ryanscherf.net/
-#####http://castirondesign.com/
-#####http://www.hihayk.com/
-#####https://bert.house/
-####https://www.freshdesignweb.com/
-####http://learn.shayhowe.com/html-css
-####Design and patterns from https://www.toptal.com
-####https://fonts.google.com
-####Text faces from https://textfac.es
-####Icons from http://www.flaticon.com
-####Favicon from http://www.favicomatic.com/
 
+Flexbox froggy
+Thinkful HTML & CSS course
+Portfolios
+http://ryanscherf.net/
+http://castirondesign.com/
+http://www.hihayk.com/
+https://bert.house/
+https://www.freshdesignweb.com/
+http://learn.shayhowe.com/html-css
+Design and patterns from https://www.toptal.com
+https://fonts.google.com
+Text faces from https://textfac.es
+Icons from http://www.flaticon.com
+Favicon from http://www.favicomatic.com/
