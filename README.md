@@ -26,17 +26,24 @@ After going through some portfolio design and vcards on the web, I decided to ma
 
 Wireframes
 ------------
-#Home Page
+```
+# Home Page
+*****
 ![Home Page][Home wireframe]
 
-#Bio/ About Me
+# Bio/ About Me
+******
 ![About Me][Bio wireframe]
 
-#CV
+# CV
+******
 ![CV][CV Wireframe]
 
-#Contact
+# Contact
+******
 ![Contact][Contact Wireframe]
+```
+
 Mobile view
 -----------------
 Since I made the page responsive for mobile last, it was quite a hurdle to get everything to work properly. I used the viewport to get the site to scale and made some adjustments to the containers. I only made the wireframe for phones after getting the site to be responsive on smaller devices and used media queries to display the content properly. Very little changes were made to the mobile view after making the wireframe. So the portfolio is consistent with the wireframe all the way to the end.
