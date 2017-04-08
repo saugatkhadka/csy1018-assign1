@@ -20,32 +20,32 @@ Cons: Not enough punch and visual appeal, Has very little content and animation
 Wireframes
 ------------
 
-###1.	Home Page
- 
- 
- 
-###2.	Bio/ About me Page
-
- 
- 
-###3.	CV Page
+Home Page
  
 
  
-###4.	Contact me page
+Bio/ About me Page
+
+ 
+ 
+CV Page
+ 
+
+
+Contact me page
  
  
 Mobile view
 -----------------
 Since I made the page responsive for mobile last, it was quite a hurdle to get everything to work properly. I used the viewport to get the site to scale and made some adjustments to the containers. I only made the wireframe after getting the site to be responsive on phones and used media queries to display the content properly. Little change were made to the mobile view after making the wireframe. So the portfolio is consistent with the wireframe. 
 
-###Home Page
+Home Page
 
-###Bio Page 
+Bio Page 
  
-###CV Page
+CV Page
 
-###Contact Me
+Contact Me
  
 
 
@@ -62,6 +62,8 @@ I started with a basic structure of the page and build it with black and white a
 3.	CV
  
 4.	Contact
+
+
 
 After the first try at the website, I realized that I was missing some photos (fixed soon after) and footer was not fixed to the bottom of the page. From looking it up, it was due to less content or bad responsive configuration. I tried to solve but there were most suggestion for using javascript, so I chose to increase the amount of content in every page so even high definition screen would not reach the end without a scroll.  After that solved my problem, there were cases were some online responsive test sent back unresponsive navbar. As far as I’ve tried it worked with all my devices so, I decided to leave it just as it is. 
  
@@ -86,20 +88,20 @@ To my best extent, I tried to keep to a good and respected design language as mu
 
 References
 --------------
-I used some sites and portfolios for design reference and for background images. All of the resources I used during the period of coding this project are listed below.
-W3school (card ui, box shadow,  flex tutorial)
+> I used some sites and portfolios for design reference and for background images. All of the resources I used during the period of coding this project are listed below.
 
-Flexbox froggy
-Thinkful HTML & CSS course
-Portfolios
-http://ryanscherf.net/
-http://castirondesign.com/
-http://www.hihayk.com/
-https://bert.house/
-https://www.freshdesignweb.com/
-http://learn.shayhowe.com/html-css
-Design and patterns from https://www.toptal.com
-https://fonts.google.com
-Text faces from https://textfac.es
-Icons from http://www.flaticon.com
-Favicon from http://www.favicomatic.com/
+> - W3school (card ui, box shadow,  flex tutorial)
+> - Flexbox froggy
+> - Thinkful HTML & CSS course
+> - Portfolios
+> -_ http://ryanscherf.net/
+> -_ http://castirondesign.com/
+> -_ http://www.hihayk.com/
+> -_ https://bert.house/
+> -_ https://www.freshdesignweb.com/
+> -_ http://learn.shayhowe.com/html-css
+> - Design and patterns from https://www.toptal.com
+> - https://fonts.google.com
+> - Text faces from https://textfac.es
+> - Icons from http://www.flaticon.com
+> - Favicon from http://www.favicomatic.com/
