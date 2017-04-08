@@ -96,13 +96,10 @@ After the first try at the website, I realized that I was missing some photos (f
 
 ### Home Page
 ![Home Page][Home final mobile design]
-
 ### Bio/ About Me
 ![About Me][Bio final mobile design]
-
 ### CV
 ![CV][CV final mobile design]
-
 ### Contact
 ![Contact][Contact final mobile design]
 
