@@ -10,7 +10,7 @@ Though it is recommended that websites be done mobile first, I made the desktop 
 
 ## Access to Project
 
-The live project can be accessed through Github with this [link](saugatkhadka.github.io/csy1018-assign1/).
+The live project can be accessed through Github with this [link](http://saugatkhadka.github.io/csy1018-assign1/).
 
 ## Sketches
 I made a very small sketch of the basic page to be followed throughout the development process. Font sizes for different and basic components for all pages are also written down. Mentioned font size are the latest trend in the blogging community and also medium uses them and I think they have really good readability because of it. And colors theme for the overall page is also written down. I mainly went with flat colors because they are easy on the eyes and catchy at the same time.
